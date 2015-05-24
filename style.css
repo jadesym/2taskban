@@ -1,0 +1,39 @@
+li { 
+    width: 90%;
+    min-height: 10px; 
+    padding: 0.5em; 
+    border-radius: 10px;
+    background: #67A2C7;
+    border: 2px solid #67A2C7;
+    color: #FFFFFF;
+    font-family: 'Arial';
+    z-index: 100;
+}
+
+.center-align {
+    text-align: center;
+}
+
+input {
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 75%;
+}
+.ui-widget-header {
+    background-image: none;
+}
+
+.ui-sortable {
+    min-height: 30px;
+    background-image: none;
+
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+.add_item {
+    text-align: center;
+}
